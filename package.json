@@ -1,0 +1,22 @@
+{
+  "name": "pandaParse",
+  "version": "0.0.0",
+  "description": "A threshold output parser for Panda results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfarid27/pandaParse.git"
+  },
+  "author": "J. Farid",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/jfarid27/pandaParse/issues"
+  },
+  "homepage": "https://github.com/jfarid27/pandaParse",
+  "dependencies": {
+    "minimist": "^1.1.0"
+  }
+}
